@@ -3,5 +3,6 @@
 int main()
 {
   std::cout << "Goose is smooth!";
+  std::cout << "Said one moose!";
   retutn 0;
 }
