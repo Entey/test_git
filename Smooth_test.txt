@@ -5,6 +5,7 @@ int main()
   std::cout << "Goose is smooth!" << std::endl;
   std::cout << "Said one mooses!" << std::endl;
   std::cout << "And stole a purse!" << std::endl;
-  
+  std::cout << "And stole a purse!" << std::endl;
+
   retutn 0;
 }
