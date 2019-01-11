@@ -6,6 +6,6 @@ int main()
   std::cout << "Said one mooses!" << std::endl;
   std::cout << "And stole a purse!" << std::endl;
   std::cout << "And!" << std::endl;
-
+  std::cout << "Add new line!" << std::endl;
   retutn 0;
 }
